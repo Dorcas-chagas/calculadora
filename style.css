@@ -32,7 +32,6 @@
     border-color: aqua;
 }
 .botao:hover{
-    transition-duration: 0.3s;
     background: rgba(255, 255, 255, 0.96);
     color:black;
     padding-bottom: 5px;
